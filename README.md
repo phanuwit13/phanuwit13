@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Big Phanuwit</h1>
+<h1 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Big+Phanuwit">
+</p>
+</h1>
+
 <h3 align="center">
 I'm web developer, I'm looking for a position that challenging such as web developer in the well known organizations or company so i could use my knowledge that l have learned to develop the company, including myself.
 </h3>
-<p align="center">
+<span>
 <a href="https://app.daily.dev/phanuwit13"><img src="https://github.com/phanuwit13/phanuwit13/blob/main/devcard.svg" width="200" alt="Phanuwit Kitt.'s Dev Card"/></a>
-</p>
+</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
