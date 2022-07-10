@@ -2,6 +2,9 @@
 <h3 align="center">
 I'm web developer, I'm looking for a position that challenging such as web developer in the well known organizations or company so i could use my knowledge that l have learned to develop the company, including myself.
 </h3>
+<p align="center">
+<a href="https://app.daily.dev/phanuwit13"><img src="https://github.com/phanuwit13/phanuwit13/blob/main/devcard.svg" width="200" alt="Phanuwit Kitt.'s Dev Card"/></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
