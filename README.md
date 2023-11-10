@@ -24,7 +24,7 @@ I'm web developer, I'm looking for a position that challenging such as web devel
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" alt="scss" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://gitcoin.co/blog/wp-content/uploads/2022/07/ethersjs.png" alt="etherjs" width="40" height="40"/> </a>
+<a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://images.viblo.asia/a1a7aeeb-067c-4661-9401-9e0e858e242e.png" alt="etherjs" width="40" height="40"/> </a>
 <a href="https://web3js.readthedocs.io/en/v1.7.4/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3" width="40" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/redux.svg" alt="web3" width="40" height="40"/> </a>
 
